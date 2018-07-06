@@ -6,4 +6,4 @@ Installation:
 pip install google
 
 
-Reference guide is in the following http://pythonhosted.org/google/
+Reference guide is in the following https://github.com/MarioVilas/googlesearch
